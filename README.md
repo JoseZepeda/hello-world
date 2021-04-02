@@ -2,9 +2,9 @@
 
 **esto es un texo en negritas**
 
-esto es un tecto normal
+esto es un texto normal
 
-*esto es un tecto en itálica*
+*esto es un texcto en itálica*
 
 * primer paso
 
